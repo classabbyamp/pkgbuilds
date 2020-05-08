@@ -1,0 +1,12 @@
+pkgbase = ttf-marketingscript
+	pkgdesc = Marketing Script Font Family
+	pkgver = 1
+	pkgrel = 3
+	url = https://www.1001fonts.com/marketing-script-font.html
+	arch = any
+	license = custom
+	source = https://dl.1001fonts.com/marketing-script.zip
+	sha256sums = dbb9277578343e3a81ea8368fb7c6402396a85e80ccf1241217a7007581fb16e
+
+pkgname = ttf-marketingscript
+
